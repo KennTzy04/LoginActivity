@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="register" type="id" />
+    <item name="banner" type="id" />
+    <item name="Firstname" type="id" />
+    <item name="Lastname" type="id" />
+    <item name="CompleteAddress" type="id" />
+    <item name="Email" type="id" />
+    <item name="Password" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="RegisterUser" type="id" />
+    <item name="Login" type="id" />
+</resources>
